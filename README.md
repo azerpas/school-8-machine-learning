@@ -8,3 +8,6 @@
 
 ## Week3
 - [Logistic Regression](Week3/README.md)
+
+## Week4
+- [Decision Trees](Week4/README.md)
